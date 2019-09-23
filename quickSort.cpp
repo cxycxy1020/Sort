@@ -1,3 +1,5 @@
+//author:chenxinyi
+//date:20190923
 #include <iostream>
 using namespace std;
 int getIndex(int *a, int l, int h)
